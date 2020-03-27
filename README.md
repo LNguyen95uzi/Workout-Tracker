@@ -8,7 +8,7 @@
 This application is a full-stack application that allows users to create and track any exercise, be it resistance training or cardio! Users can name the exercise, input the number of reps and sets completed, duration of the entire exercise, the weight of the resistance, and the distance for cardio. The User can also track their progress in the Stats page which graphs their duration and total weight being pushed!
 
 ## How to Install
-Access application with deployed link here: 
+Access application with deployed link here: https://lnguyen95uzi.github.io/Workout-Tracker/
 
 ## Usage
 Follow instructions for adding new workout or continuing a previous workout. Input exercises as they are completed!
